@@ -38,7 +38,7 @@
 def hello_world():  
     print("Hello, World!")
 我最喜欢的环境管理工具是 **conda**。  
-<img src=""https://github.com/user-attachments/assets/c1cc67c3-49d4-40ec-a6c0-b091603e6345"" width="400" alt="r1">  
+<img src=""https://github.com/user-attachments/assets/c1cc67c3-49d4-40ec-a6c0-b091603e6345"" width="800" alt="r1">  
 
 我可以在IDE上使用我建立的虚拟环境。  
-<img src="https://github.com/user-attachments/assets/f82da963-c9ee-4fcb-b6d4-764bf9e73db1" width="400" alt="e1">  
+<img src="https://github.com/user-attachments/assets/f82da963-c9ee-4fcb-b6d4-764bf9e73db1" width="800" alt="e1">  
