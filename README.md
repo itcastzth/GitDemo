@@ -1,6 +1,7 @@
 # 我的自我介绍  
 
-<img src="![R-C](https://github.com/user-attachments/assets/017f742d-78e5-4a7a-ac97-c4523d359ae6)" width="200" alt="我的图片">  
+<img src="https://github.com/user-attachments/assets/08568afb-79c3-4442-8063-647308bea469" width="200" alt="我的图片">  
+
 
 大家好，我是 **路飞**，我的身份是 *海贼王*。以下是我的自我介绍：  
 ---  
