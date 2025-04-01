@@ -41,5 +41,4 @@ def hello_world():
 <img src=""https://github.com/user-attachments/assets/c1cc67c3-49d4-40ec-a6c0-b091603e6345"" width="400" alt="r1">  
 
 我可以在IDE上使用我建立的虚拟环境。  
-
-<img src="![e1](https://github.com/user-attachments/assets/98b73f5f-7adb-4347-8cc1-1c7a773e10c2)" width="400" alt="e1">  
+<img src="https://github.com/user-attachments/assets/f82da963-c9ee-4fcb-b6d4-764bf9e73db1" width="400" alt="e1">  
