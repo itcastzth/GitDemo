@@ -1,11 +1,9 @@
+
 # 我的自我介绍  
 
-<img src="https://github.com/user-attachments/assets/08568afb-79c3-4442-8063-647308bea469" width="200" alt="我的图片">  
-我最喜欢的环境管理工具是 **conda**。  
-<img src=""https://github.com/user-attachments/assets/c1cc67c3-49d4-40ec-a6c0-b091603e6345"" width="800" alt="r1"> 
+<img src="https://github.com/user-attachments/assets/017f742d-78e5-4a7a-ac97-c4523d359ae6" width="200" alt="我的图片">  
 
 大家好，我是 **路飞**，我的身份是 *海贼王*。以下是我的自我介绍：  
----  
 ---  
 
 ## 基础档案  
@@ -33,15 +31,17 @@
 ---  
 
 ## 我的专业是人工智能  
- 
-
-我可以在IDE上使用我建立的虚拟环境。  
-<img src="https://github.com/user-attachments/assets/f82da963-c9ee-4fcb-b6d4-764bf9e73db1" width="800" alt="e1">  
 
 ## 我最喜欢的一段代码  
-
 ```python  
 # 示例代码  
 def hello_world():  
-    print("Hello, World!")
+    print("Hello, World!") 
+```
+
+我最喜欢的环境管理工具是 **conda**。  
+<img src="https://github.com/user-attachments/assets/c1cc67c3-49d4-40ec-a6c0-b091603e6345" width="800" alt="环境搭建的截图"> 
+
+我可以在IDE上使用我建立的虚拟环境。  
+<img src="https://github.com/user-attachments/assets/f82da963-c9ee-4fcb-b6d4-764bf9e73db1" width="800" alt="虚拟环境的截图">
 
