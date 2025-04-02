@@ -1,6 +1,7 @@
 # 文本分类项目
 
 ## 代码核心功能说明
+<img width="781" alt="a1" src="https://github.com/user-attachments/assets/740c2460-d91b-4603-bf32-70da8b8b80f0" />
 
 ### 算法基础
 本项目采用多项式朴素贝叶斯分类器（Multinomial Naive Bayes）进行文本分类。朴素贝叶斯分类器基于贝叶斯定理，假设特征之间相互独立。在文本分类任务中，每个词被视为一个特征，假设每个词的出现与其他词的出现相互独立。
@@ -126,6 +127,7 @@ X = create_features(texts, method=method)
      smote = SMOTE()
      X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
      ```
+<img width="676" alt="b1" src="https://github.com/user-attachments/assets/29f5a409-f5d7-4171-bc34-f7541fba7c9c" />
 
 2. **模型评估指标**：
    - 输出包含精度（Precision）、召回率（Recall）和 F1 值的分类评估报告。
@@ -134,3 +136,4 @@ X = create_features(texts, method=method)
      from sklearn.metrics import classification_report
      print(classification_report(y_test, y_pred))
      ```
+<img width="911" alt="c1" src="https://github.com/user-attachments/assets/8d7fc5b2-0cc9-4d07-b9fa-3ca44740ca89" />
