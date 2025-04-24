@@ -30,9 +30,12 @@
    **答案：B. nationalities**
 
 # 截图一
+<img width="648" alt="2f6a5fb56d55c3413df3762ae0d8d10" src="https://github.com/user-attachments/assets/06ce5746-6ae5-491c-8b52-3c89eb0ce673" />
 
 
 # 截图二
+<img width="610" alt="9133ae256115995374613545466c861" src="https://github.com/user-attachments/assets/b82ab685-6393-45af-89ff-d553cab304c7" />
 
 
 # 截图三
+<img width="608" alt="443d862b6d0969b54450821a306735d" src="https://github.com/user-attachments/assets/8bdaca8f-2363-48c8-9956-1ed84911296d" />
